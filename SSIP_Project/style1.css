@@ -1,0 +1,13 @@
+body {
+	background-image: url("https://i.pinimg.com/originals/67/18/22/671822c2f63dd5f65d8fd15c9710420b.jpg");
+	background-size: 100%;
+	background-attachment: fixed;
+}
+h1 {
+	background-image: url("https://wallpapercave.com/wp/MQy6rhu.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 95%;
+	opacity: 0.8;
+	background-attachment: fixed;
+}
